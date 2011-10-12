@@ -1,0 +1,12 @@
+Visual Studio Query Tool
+1) How many classes/methods have LOC more than x 
+2) Which classes have more than x methods
+3) Which Inheritance hierarchies have more than x level depth
+4) Which classes have constructors that have more than x parameters
+5) Which methods take more than x params
+6) How many files have more than one classes
+7) Total no of classes,interfaces,projects,LOC
+8) How many classes does not have corrosponding test classes(by naming convention)
+9) 
+
+Write production classes and a pligin will generate a corrosponding test calls in the test project under same folder structure.
