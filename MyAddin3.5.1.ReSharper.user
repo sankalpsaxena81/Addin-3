@@ -1,0 +1,160 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsMethod.cs" caret="370" fromTop="14" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsConstructors.cs" caret="152" fromTop="9" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsVariable.cs" caret="199" fromTop="12" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="1386" fromTop="22" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="897" fromTop="25" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsSolution.cs" caret="886" fromTop="14" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsProject.cs" caret="292" fromTop="13" />
+      <File id="5DFE6029-E5A6-4502-BA0D-287096631AA1/f:Form1.cs" caret="192" fromTop="5" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="224" fromTop="5" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:Connect.cs" caret="6334" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="138" fromTop="7" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="326" fromTop="10" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="692" fromTop="12" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="1510" fromTop="22" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="1129" fromTop="11" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsClass.cs" caret="953" fromTop="11" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsVariable.cs" caret="340" fromTop="11" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsVariable.cs" caret="144" fromTop="9" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="400" fromTop="17" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="400" fromTop="9" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsProject.cs" caret="1076" fromTop="24" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="663" fromTop="14" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="1110" fromTop="15" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="1405" fromTop="14" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="1645" fromTop="23" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsFile.cs" caret="985" fromTop="12" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsProject.cs" caret="1076" fromTop="7" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsProject.cs" caret="1077" fromTop="19" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="1172" fromTop="11" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsSolution.cs" caret="209" fromTop="10" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsSolution.cs" caret="548" fromTop="18" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="603" fromTop="23" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="957" fromTop="24" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsSolution.cs" caret="973" fromTop="17" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:VsProject.cs" caret="1077" fromTop="13" />
+      <File id="5DFE6029-E5A6-4502-BA0D-287096631AA1/f:Form1.cs" caret="447" fromTop="18" />
+      <File id="5DFE6029-E5A6-4502-BA0D-287096631AA1/f:Form1.cs" caret="192" fromTop="5" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:Connect.cs" caret="6836" fromTop="15" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="293" fromTop="8" />
+      <File id="785F7BF0-CFD2-4117-ABCC-76B61411B0DB/f:DomainFactory.cs" caret="1103" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="3" />
+      <Item value="VsProject`0" priority="3" />
+      <Item value="Files" priority="0" />
+      <Item value="new" priority="11" />
+      <Item value="List&lt;VsFile&gt;" priority="0" />
+      <Item value="vsClass" priority="1" />
+      <Item value="VsClass`0" priority="2" />
+      <Item value="MemberwiseClone`0" priority="0" />
+      <Item value="List&lt;VsMethods&gt;" priority="0" />
+      <Item value="cdClassElmnt" priority="0" />
+      <Item value="VsMethods`0" priority="0" />
+      <Item value="vsMethod" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="method" priority="3" />
+      <Item value="CodeElement`0" priority="0" />
+      <Item value="function" priority="2" />
+      <Item value="Console`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="vsCMElementOther" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="vsVariable" priority="0" />
+      <Item value="element" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="VsVariable`0" priority="2" />
+      <Item value="Variables" priority="0" />
+      <Item value="List&lt;VsVariable&gt;" priority="0" />
+      <Item value="return" priority="8" />
+      <Item value="List" priority="0" />
+      <Item value="VsConstructors`0" priority="2" />
+      <Item value="Constructors" priority="0" />
+      <Item value="List&lt;VsConstructors&gt;" priority="0" />
+      <Item value="private" priority="4" />
+      <Item value="VsMethod`0" priority="0" />
+      <Item value="project" priority="3" />
+      <Item value="VsFile`0" priority="2" />
+      <Item value="vsFile" priority="2" />
+      <Item value="vsProject" priority="2" />
+      <Item value="VsSolution`0" priority="3" />
+      <Item value="solution" priority="3" />
+      <Item value="vsSolution" priority="0" />
+      <Item value="_dispTaskListEvents`0" priority="0" />
+      <Item value="Projects" priority="0" />
+      <Item value="List&lt;VsProject&gt;" priority="0" />
+      <Item value="SolutionAnalyses`0" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="file" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="textBox1" priority="0" />
+      <Item value="information" priority="0" />
+      <Item value="form1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EnvDTE.vsCMElement">
+      <Item value="vsCMElementFunction" priority="1" />
+      <Item value="vsCMElementVariable" priority="0" />
+      <Item value="vsCMElementDelegate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.CodeFunction">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.CodeElement">
+      <Item value="Name" priority="1" />
+      <Item value="Kind" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyAddin3.VsFile">
+      <Item value="Classes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Solution">
+      <Item value="Projects" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyAddin3.VsProject">
+      <Item value="Files" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyAddin3.VsSolution">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddinUI.Form1">
+      <Item value="Show`0" priority="1" />
+      <Item value="Populate`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

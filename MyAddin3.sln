@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAddin3", "MyAddin3\MyAddin3.csproj", "{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddinUI", "AddinUI\AddinUI.csproj", "{5DFE6029-E5A6-4502-BA0D-287096631AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{785F7BF0-CFD2-4117-ABCC-76B61411B0DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Debug|x86.ActiveCfg = Debug|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Debug|x86.Build.0 = Debug|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Release|Any CPU.ActiveCfg = Release|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Release|x86.ActiveCfg = Release|x86
+		{5DFE6029-E5A6-4502-BA0D-287096631AA1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
